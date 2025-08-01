@@ -1,2 +1,4 @@
 # Workshop1-Tennis-Booking-System
-A C++ and MySQL-based console application developed for Workshop I at UTeM. This Tennis Booking System allows users to register, book courts, view real-time availability, and manage transactions, while admins can approve payments and generate revenue reports. Designed with modular functionality, user-friendly flow and secure SQL integration
+
+This project was developed solely for educational purposes as part of Workshop I at Universiti Teknikal Malaysia Melaka (UTeM). All included files—such as source code (.cpp), database script (.sql) and presentation slides—are intended to showcase technical skills and project implementation.
+You may refer to this project for learning or inspiration, but please do not copy, redistribute or submit this work as your own for academic or commercial use. Kindly credit the author if you intend to reference any part of this project.
